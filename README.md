@@ -64,7 +64,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-## **Model Accuracy**
+## Model Accuracy
 
 | Dataset  | Accuracy |
 |----------|----------|
@@ -74,7 +74,7 @@ streamlit run app.py
 
 ---
 
-## **Technologies Used**
+## Technologies Used
 
 - Python  
 - Wav2Vec 2.0 (via HuggingFace Transformers)  
@@ -85,9 +85,9 @@ streamlit run app.py
 
 ---
 
-## **Author**
+## Author
 
-**Faiza Liyaqat**  
+Faiza Liyaqat
 B.Tech in Data Science & AI  
 [LinkedIn](https://linkedin.com/in/faiza-liyaqat-682137217)  
 [GitHub](https://github.com/faizaliyaqat)
