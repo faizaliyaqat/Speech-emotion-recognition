@@ -63,32 +63,30 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-## MODEL ACCURACY
+## **Model Accuracy**
 
 | Dataset  | Accuracy |
-| -------- | -------- |
+|----------|----------|
 | RAVDESS  | 86%      |
 | SAVEE    | 84%      |
 | Combined | 85%      |
 
+---
 
-## Technologies Used
-Python
+## **Technologies Used**
 
-Wav2Vec 2.0 (via Transformers)
+- Python  
+- Wav2Vec 2.0 (via HuggingFace Transformers)  
+- Scikit-learn  
+- SHAP (Explainable AI)  
+- Librosa and Soundfile  
+- Streamlit
 
-Scikit-learn
+---
 
-SHAP
+## **Author**
 
-Librosa and Soundfile
-
-Streamlit
-
-
-Author
-Faiza Liyaqat
-B.Tech in Data Science & AI
-LinkedIn: https://linkedin.com/in/faiza-liyaqat-682137217
-GitHub: https://github.com/faizaliyaqat
-
+**Faiza Liyaqat**  
+B.Tech in Data Science & AI  
+[LinkedIn](https://linkedin.com/in/faiza-liyaqat-682137217)  
+[GitHub](https://github.com/faizaliyaqat)
