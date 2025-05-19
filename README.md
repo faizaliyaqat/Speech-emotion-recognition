@@ -45,7 +45,7 @@ SER_Wav2Vec_Project/
 This project uses the following publicly available datasets:
 
 - RAVDESS: https://zenodo.org/record/1188976  
-- SAVEE: https://github.com/Arijit1080/SAVEE-Database
+- SAVEE: https://github.com/Arijit1080/SAVEE-Database](https://github.com/JindongJiang/SAVEE-database
 
 Due to licensing restrictions and file size, datasets are not included in this repository. To reproduce results, download them manually and place them in a `data/` folder.
 
