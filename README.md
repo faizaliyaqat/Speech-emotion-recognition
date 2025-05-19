@@ -65,7 +65,4 @@ streamlit run app.py
 
 
 
-Faiza Liyaqat
-B.Tech in Data Science & AI  
-[LinkedIn](https://linkedin.com/in/faiza-liyaqat-682137217)  
-[GitHub](https://github.com/faizaliyaqat)
+
